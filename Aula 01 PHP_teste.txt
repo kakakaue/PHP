@@ -1,0 +1,21 @@
+<?php
+
+$nome = "Igor Araújo";
+
+$cidade = "São Paulo/SP";
+
+echo  "Menu nome é $nome e moro em $cidade";
+
+$bairro = "Itaquera";
+
+$cep = "08150-000";
+
+$telefone = "11 2563-0000";
+
+$marcacigarro = "marlboro";
+
+$marcadecarro = "GM";
+
+echo "Moro no bairro $bairro, no $cep, meu contato é $telefone, fumo cigarro da marca $marcacigarro e tenho um carro $marcadecarro.";
+
+?>
